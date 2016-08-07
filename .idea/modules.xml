@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SmartTVLauncher.iml" filepath="$PROJECT_DIR$/SmartTVLauncher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gamelauncher/gamelauncher.iml" filepath="$PROJECT_DIR$/gamelauncher/gamelauncher.iml" />
+    </modules>
+  </component>
+</project>
